@@ -1,0 +1,14 @@
+C:\Users\12\source\repos\HomeWork_L_Loggin_Collection\HomeWork_L_Loggin_Collection\bin\Debug\netcoreapp3.1\HomeWork_L_Loggin_Collection.exe
+C:\Users\12\source\repos\HomeWork_L_Loggin_Collection\HomeWork_L_Loggin_Collection\bin\Debug\netcoreapp3.1\HomeWork_L_Loggin_Collection.deps.json
+C:\Users\12\source\repos\HomeWork_L_Loggin_Collection\HomeWork_L_Loggin_Collection\bin\Debug\netcoreapp3.1\HomeWork_L_Loggin_Collection.runtimeconfig.json
+C:\Users\12\source\repos\HomeWork_L_Loggin_Collection\HomeWork_L_Loggin_Collection\bin\Debug\netcoreapp3.1\HomeWork_L_Loggin_Collection.runtimeconfig.dev.json
+C:\Users\12\source\repos\HomeWork_L_Loggin_Collection\HomeWork_L_Loggin_Collection\bin\Debug\netcoreapp3.1\HomeWork_L_Loggin_Collection.dll
+C:\Users\12\source\repos\HomeWork_L_Loggin_Collection\HomeWork_L_Loggin_Collection\bin\Debug\netcoreapp3.1\HomeWork_L_Loggin_Collection.pdb
+C:\Users\12\source\repos\HomeWork_L_Loggin_Collection\HomeWork_L_Loggin_Collection\obj\Debug\netcoreapp3.1\HomeWork_L_Loggin_Collection.csproj.AssemblyReference.cache
+C:\Users\12\source\repos\HomeWork_L_Loggin_Collection\HomeWork_L_Loggin_Collection\obj\Debug\netcoreapp3.1\HomeWork_L_Loggin_Collection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12\source\repos\HomeWork_L_Loggin_Collection\HomeWork_L_Loggin_Collection\obj\Debug\netcoreapp3.1\HomeWork_L_Loggin_Collection.AssemblyInfoInputs.cache
+C:\Users\12\source\repos\HomeWork_L_Loggin_Collection\HomeWork_L_Loggin_Collection\obj\Debug\netcoreapp3.1\HomeWork_L_Loggin_Collection.AssemblyInfo.cs
+C:\Users\12\source\repos\HomeWork_L_Loggin_Collection\HomeWork_L_Loggin_Collection\obj\Debug\netcoreapp3.1\HomeWork_L_Loggin_Collection.csproj.CoreCompileInputs.cache
+C:\Users\12\source\repos\HomeWork_L_Loggin_Collection\HomeWork_L_Loggin_Collection\obj\Debug\netcoreapp3.1\HomeWork_L_Loggin_Collection.dll
+C:\Users\12\source\repos\HomeWork_L_Loggin_Collection\HomeWork_L_Loggin_Collection\obj\Debug\netcoreapp3.1\HomeWork_L_Loggin_Collection.pdb
+C:\Users\12\source\repos\HomeWork_L_Loggin_Collection\HomeWork_L_Loggin_Collection\obj\Debug\netcoreapp3.1\HomeWork_L_Loggin_Collection.genruntimeconfig.cache
